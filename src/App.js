@@ -38,6 +38,7 @@ class App extends Component {
         resolution = errorRecord.resolution;
         found = true
       }
+      return null;
     });
 
     this.setState({
