@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/text-compare-jaro-winkler/static/css/main.dbd089cf.chunk.css",
+    "main.js": "/text-compare-jaro-winkler/static/js/main.61584be9.chunk.js",
+    "main.js.map": "/text-compare-jaro-winkler/static/js/main.61584be9.chunk.js.map",
+    "runtime-main.js": "/text-compare-jaro-winkler/static/js/runtime-main.98eeb4c4.js",
+    "runtime-main.js.map": "/text-compare-jaro-winkler/static/js/runtime-main.98eeb4c4.js.map",
+    "static/js/2.e37861c0.chunk.js": "/text-compare-jaro-winkler/static/js/2.e37861c0.chunk.js",
+    "static/js/2.e37861c0.chunk.js.map": "/text-compare-jaro-winkler/static/js/2.e37861c0.chunk.js.map",
+    "index.html": "/text-compare-jaro-winkler/index.html",
+    "precache-manifest.1ac27e1b89a92deeabb0bedece4d08c1.js": "/text-compare-jaro-winkler/precache-manifest.1ac27e1b89a92deeabb0bedece4d08c1.js",
+    "service-worker.js": "/text-compare-jaro-winkler/service-worker.js",
+    "static/css/main.dbd089cf.chunk.css.map": "/text-compare-jaro-winkler/static/css/main.dbd089cf.chunk.css.map",
+    "static/js/2.e37861c0.chunk.js.LICENSE.txt": "/text-compare-jaro-winkler/static/js/2.e37861c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98eeb4c4.js",
+    "static/js/2.e37861c0.chunk.js",
+    "static/css/main.dbd089cf.chunk.css",
+    "static/js/main.61584be9.chunk.js"
+  ]
+}
